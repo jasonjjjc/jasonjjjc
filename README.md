@@ -14,7 +14,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 - 🔭 I trained with the School of Code to become a Software Engineer so that I can contribute to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Exploring tutorial content creation to help new coders get started with code
 - ⚡ In my free time I help others work on their coding skills
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jasonjjjc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-chalangary)
 
