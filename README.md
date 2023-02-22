@@ -35,7 +35,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-<h1 align="center">💼 Projects</h1>
+### 🛠 &nbsp;Languages and Tools :
+
 <p align="center">
 See the README.md of each project for more details about the specifics of the projects.
 
