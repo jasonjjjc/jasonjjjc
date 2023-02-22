@@ -40,7 +40,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://www.codewars.com/users/jasonary156/badges/large"/></div>
 
 ### 🔥 &nbsp; My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasonjjjc&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjjjc&layout=compact&theme=vision-friendly-dark)](https://github.com/jasonjjjc/github-readme-stats)
 
