@@ -48,7 +48,7 @@ See the README.md of each project for more details about the specifics of the pr
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 | LetChat - Letting Management Software | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-git-gud) | [Demo](https://letchat.co.uk) | Next, React, TypeScript, Firebase, Jest and Cypress Testing    |
 |          FlashIT - Tech interview flash cards | [Github](https://github.com/jasonjjjc/flash-IT)        | [Demo](https://jasonjjjc.github.io/flash-IT/)         | React, PostgreSQL, Various Testing Libraries     |
-|          QR Code Generator | [Github](https://github.com/jasonjjjc/QR-Generator)        | [Demo](https://jasonjjjc.github.io/QR-Generator/)         | Next, Tailwind CSS     |
+|          QR Code Generator | [Github](https://github.com/jasonjjjc/QR-Generator)        | [Demo](https://jasonjjjc.github.io/QR-Generator/)         | RESTful API, JSON, Jest, CSS animations     |
 
 
 </div>
