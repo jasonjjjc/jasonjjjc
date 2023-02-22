@@ -32,6 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 |  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">|
      
 </div>
+
 ---
 
 <h1 align="center">💼 Projects</h1>
@@ -54,6 +55,7 @@ See the README.md of each project for more details about the specifics of the pr
 
 
 ---
+
 <!-- My codewars ranking -->
 ### 🔥 &nbsp; My CodeWars Ranking :
 <img src="https://www.codewars.com/users/jasonary156/badges/large"/></div>
