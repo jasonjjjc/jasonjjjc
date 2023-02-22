@@ -11,8 +11,8 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
-- 🔭 I trained with the <a href="https://www.schoolofcode.com/">School of Code</a> to become a Software Engineer so that I can contribute to frontend and backend for building web applications.
-- 🌱 Exploring tutorial content creation to help new coders get started with code
+- 🔭 After years working in psychiatry to help people solve mental health problems, I realised I could have a huge impact on the world with code, so I trained with the <a href="https://www.schoolofcode.com/">School of Code</a> to become a Software Engineer. I am now able to contribute to frontend and backend development for building web applications that can truly make the world a better place.
+- 🌱 I am currently working with my previous employers in the NHS to create workflow automation tools to greatly increase productivity for colleagues I used to work with. 
 - ⚡ In my free time I help others work on their coding skills on codewars.com
 
 ---
