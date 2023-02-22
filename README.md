@@ -16,7 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I trained with the School of Code to become a Software Engineer so that I can contribute to frontend and backend for building web applications.
 - 🌱 Exploring tutorial content creation to help new coders get started with code
 - ⚡ In my free time I help others work on their coding skills
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jasonchalangary-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-chalangary)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jasonjjjc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-chalangary)
 
 ---
 
@@ -33,6 +33,26 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 |  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">|
      
 </div>
+---
+
+<h1 align="center">💼 Projects</h1>
+<p align="center">
+See the README.md of each project for more details about the specifics of the projects.
+
+</p>
+<br>
+<div align="center">
+
+|               Project |                                                            |                                                          | Key Tech                 |
+| --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
+| LetChat - Letting Management Software | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-git-gud) | [Demo](https://letchat.co.uk) | Next, React, TypeScript, Firebase, Jest and Cypress Testing    |
+|          FlashIT - Tech interview flash cards | [Github](https://github.com/jasonjjjc/flash-IT)        | [Demo](https://jasonjjjc.github.io/flash-IT/)         | React, PostgreSQL, Various Testing Libraries     |
+|          QR Code Generator | [Github](https://github.com/jasonjjjc/QR-Generator)        | [Demo](https://jasonjjjc.github.io/QR-Generator/)         | Next, Tailwind CSS     |
+
+
+</div>
+
+
 
 ---
 <!-- My codewars ranking -->
