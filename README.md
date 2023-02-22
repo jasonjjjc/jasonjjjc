@@ -9,7 +9,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+## :man_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Languages and Tools :
 
  **Frameworks, Platforms and Libraries**  | Programming Lang |
 | :--- | :--- |
@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🛠 &nbsp;Projects :
+## 🛠 &nbsp;Projects :
 
 <p align="center">
 See the README.md of each project for more details about the specifics of the projects.
@@ -58,10 +58,10 @@ See the README.md of each project for more details about the specifics of the pr
 ---
 
 <!-- My codewars ranking -->
-### 🔥 &nbsp; My CodeWars Ranking :
+## 🔥 &nbsp; My CodeWars Ranking :
 <img src="https://www.codewars.com/users/jasonary156/badges/large"/></div>
 
-### 🔥 &nbsp; My Stats :
+## 🔥 &nbsp; My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjjjc&layout=compact&theme=vision-friendly-dark)](https://github.com/jasonjjjc/github-readme-stats)
 
