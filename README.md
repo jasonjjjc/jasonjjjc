@@ -13,7 +13,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
-- 🔭 I trained with the School of Code to become a Software Engineer so that I can contribute to frontend and backend for building web applications.
+- 🔭 I trained with the <a href="https://www.schoolofcode.com/">School of Code</a> to become a Software Engineer so that I can contribute to frontend and backend for building web applications.
 - 🌱 Exploring tutorial content creation to help new coders get started with code
 - ⚡ In my free time I help others work on their coding skills on codewars.com
 
