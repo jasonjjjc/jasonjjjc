@@ -12,7 +12,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 - 🔭 After years working in psychiatry to help people solve mental health problems, I realised I could help many more people with code, so I trained with the <a href="https://www.schoolofcode.com/">School of Code</a> to become a web developer. I am so excited that I am now contributing to front-end and back-end development for building real-world web applications that truly make the world a better place.
-- 🌱 I am currently working with my previous employers in the NHS to create workflow automation tools to greatly increase productivity for colleagues I used to work with. 
+- 🌱 I am currently working with NEXT to create tools for my previous employers in the NHS to greatly increase productivity for colleagues I used to work with. 
 - ⚡ In my free time I help others work on their coding skills on codewars.com, and work my way through LeetCode challenges!
 
 ---
