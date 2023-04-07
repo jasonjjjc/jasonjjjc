@@ -46,6 +46,7 @@ See the README.md of each project for more details about the specifics of the pr
 
 |               Project |                         Github                                   |             Demo                                             | Key Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
+|   CareChange | [Repo](https://github.com/jasonjjjc/care)        | [Site](https://carechange.vercel.app/)         | Next, React, Typescript, SSR, REST API, React Testing   
 | LetChat - Letting Management Software | [Repo](https://github.com/SchoolOfCode/bc13_final-project_front-end-git-gud) | [Site](https://letchat.co.uk) | Next, React, TypeScript, Firebase, Jest and Cypress Testing    |
 |          FlashIT - Tech interview flash cards | [Repo](https://github.com/jasonjjjc/flash-IT)        | [Site](https://jasonjjjc.github.io/flash-IT/)         | React, PostgreSQL, Various Testing Libraries     |
 |          QR Code Generator | [Repo](https://github.com/jasonjjjc/QR-Generator)        | [Site](https://jasonjjjc.github.io/QR-Generator/)         | RESTful API, JSON, Jest, CSS animations     |
